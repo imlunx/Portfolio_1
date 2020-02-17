@@ -1,0 +1,8 @@
+#!/bin/bash
+# Student Name  : Aaron Ng Wee Xuan
+# Student Number: 10518970
+
+# Allow all script to be readable, executable and writable
+chmod 777 *.sh
+
+exit 0
