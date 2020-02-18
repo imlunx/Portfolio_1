@@ -1,0 +1,13 @@
+{
+    
+    "add a shebang": {
+    "prefix": "shebang",
+    "body": [
+        "#!/bin/bash",
+        "# Student Name  : Aaron Ng Wee Xuan",
+        "# Student Number: 10518970"
+    ],
+    "description": "Add shebang to script"
+}
+
+}
