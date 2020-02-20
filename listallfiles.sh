@@ -3,6 +3,6 @@
 # Student Number: 10518970
 
 # list all files (including hidden files)
-ls -a 
+ls -AR 
 
 exit 0
